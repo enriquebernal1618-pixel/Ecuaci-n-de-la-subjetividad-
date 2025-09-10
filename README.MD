@@ -1,3 +1,6 @@
+Psi (Ψ): (10/0.174) × (1.618^2/(67.8 x 10^(-36))) x (5 × 6 × 3 × 4) ≈ 3.14159 × 10^43
+
+
 ````markdown name=ecuacion_subjetividad_enriquebernal.md
 # Ecuación de la Subjetividad
 
